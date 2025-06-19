@@ -32,7 +32,7 @@ Apaixonado por criar soluções digitais que unem design, funcionalidade e perfo
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="![YasmimMatosLi's Stats](https://github-readme-stats.vercel.app/api?username=YasmimMatosLi&theme=dracula&show_icons=true&hide_border=true&count_private=true)"/>
+  <img height="180em" src="!![YasmimMatosLi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasmimMatosLi&show_icons=true&theme=radical)"/>
   <img height="180em" src="![YasmimMatosLi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimMatosLi&theme=dracula&show_icons=true&hide_border=true&layout=compact)"/>
 </div>
 
