@@ -6,8 +6,8 @@
 
 <h1 align="center"> Full Stack Developer</h1>
 
-Building modern web applications with <b>Java</b> on the backend and <b>Angular</b> on the frontend.<br/>
-Focused on performance, scalability, and clean architecture.
+Full stack development student focused on building modern web applications with <b>Java</b> on the backend and <b>Angular</b> on the frontend.<br/>
+Continuously learning, practicing, and improving clean and scalable solutions.
 
 ---
 
