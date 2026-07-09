@@ -15,7 +15,6 @@ Continuously learning, practicing, and improving clean and scalable solutions.
 
 ![Java](https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=java&logoColor=00E5FF)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0A0A0A?style=for-the-badge&logo=spring-boot&logoColor=00FF9C)
-![Angular](https://img.shields.io/badge/Angular-0A0A0A?style=for-the-badge&logo=angular&logoColor=FF1744)
 
 
 
