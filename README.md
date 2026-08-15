@@ -4,10 +4,24 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=0000FF&center=true&width=435&lines=Hi%2C+I'm+Yasmim!" alt="Typing SVG" /></a>
 </div>
 
-<h1 align="center"> Full Stack Developer</h1>
+<h1 align="center"> Developer</h1>
 
-Full stack development student focused on building modern web applications with <b>Java</b> on the backend and <b>Angular</b> on the frontend.<br/>
-Continuously learning, practicing, and improving clean and scalable solutions.
+## 👩‍💻 About Me
+
+Hi! I'm **Yasmim**, a Information Systems student at the **Federal University of Ceará (UFC)** and a Computer Technician.
+
+I'm passionate about **software development**, especially backend development with **Java and Spring Boot**. I'm constantly learning, building projects, and exploring new technologies to improve my skills.
+
+Currently, I'm also interested in **Artificial Intelligence, Large Language Models (LLMs), Software Engineering, and academic research**. I enjoy turning ideas into real projects and learning through hands-on experience.
+
+🌱 Currently learning more about **Java, Spring Boot, Angular, and AI**</br>
+💻 Interested in **Backend Development & Software Engineering**</br>
+🔬 Exploring **AI, LLMs & Academic Research**</br>
+🚀 Building projects and continuously improving my skills</br>
+🎓 Information Systems student at UFC Quixadá
+
+> *Always learning, building, and looking for new challenges.* ✨
+
 
 ---
 
